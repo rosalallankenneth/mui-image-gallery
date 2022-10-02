@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![alt text](https://github.com/rosalallankenneth/mui-image-gallery/blob/master/mui-image-gallery-cover.PNG?raw=true)
+
 ## Available Scripts
 
 In the project directory, you can run:
